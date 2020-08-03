@@ -38,10 +38,13 @@ Dentro do escopo do desafio, decidimos trabalhar com o setor de vestuário, fort
 ## 
 
 ✅Pitch:<BR> 
+Incluir link do youtube - 2 minutos da solução e 1 minuto da análise
+<br>Incluir documentos
 
-
-> Arquivos:
- 
+<br>
+<br>
+<br>
+Arquivos:
 * [Notebook da análise de dados](https://github.com/gortaina/data-hack-challenge-santander-2020/blob/master/Notebook.ipynb)
 * [Dataset](https://github.com/gortaina/data-hack-challenge-santander-2020/blob/master/dataset.xlsx)
 * [Relacao_de_Dados.v1.xlsx](https://github.com/gortaina/data-hack-challenge-santander-2020/blob/master/Relacao_de_Dados.v1.xlsx)
